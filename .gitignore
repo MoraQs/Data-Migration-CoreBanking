@@ -1,0 +1,52 @@
+# Python-related
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Virtual Environment
+/venv/
+/my_env/
+
+# Environment variable files
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+/log/
+
+# Data csv
+/data/
+
+# Mapping Documents
+/mapping_doc/
+
+# Other scripts
+/other_scripts/
+
+# Database files
+*.sqlite
+*.db
+*.bak
+*.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Package distribution files
+*.tar.gz
+*.egg
+*.egg-info
+dist/
+build/
+
