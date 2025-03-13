@@ -104,7 +104,7 @@ The transformed data is loaded into the following tables:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/data_migration.git
+   git clone https://github.com/MoraQs/data_migration.git
    cd data_migration
    ```
 
